@@ -9,7 +9,7 @@
 
 # make this the file you want to match. Right now, it codes the example file
 # so you can look at what the format should be for the input file
-unknown.metabolites <- read.table("barbaras_tooscaredtoask_file.berries.metabolites_clean.txt") 
+unknown.metabolites <- read.table("unknown_metabolites_clean.txt") 
 # this file should stay the same,unless you have something else to match to. If that's the 
 # case, make sure that the format is the same.
 # this file has all of the metabolites. It will take a long time, especially if you
