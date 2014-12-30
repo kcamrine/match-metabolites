@@ -11,6 +11,8 @@ match_metabolites.R		     -- code to create the matches
 metabolites_list_processed_clean.txt -- metabolites from XML files from the Human 
 Metabolite database (http://www.hmdb.ca)
 
+parse_mets_out.pl		     -- process R raw output to just include matches
+from none, 10%, 20% and 30% variability from each query
 
 Metabolite matches are processed from XML files of HMDB database downloaded in 
 November of 2014: Citations:
